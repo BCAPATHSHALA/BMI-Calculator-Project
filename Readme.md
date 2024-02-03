@@ -6,12 +6,12 @@ This is a simple yet powerful **BMI (Body Mass Index)** calculator built using J
 
 ## Features
 
-**BMI Calculation:** Input your height and weight, and the calculator will instantly provide your BMI.
-**Category Colorization:** The BMI result is color-coded based on categories such as Underweight, Normal Weight, Overweight, and Obesity.
-**Height Conversion:** Easily switch between centimeters, meters, and feet for height input.
-**Weight Conversion:** Choose your preferred unit for weight - pounds or kilograms.
-**Gender Selection:** Specify your gender as either male or female for more accurate BMI categorization.
-**Age Input:** Include your age to enhance the precision of BMI calculation.
+- **BMI Calculation:** Input your height and weight, and the calculator will instantly provide your BMI.
+- **Category Colorization:** The BMI result is color-coded based on categories such as Underweight, Normal Weight, Overweight, and Obesity.
+- **Height Conversion:** Easily switch between centimeters, meters, and feet for height input.
+- **Weight Conversion:** Choose your preferred unit for weight - pounds or kilograms.
+- **Gender Selection:** Specify your gender as either male or female for more accurate BMI categorization.
+- **Age Input:** Include your age to enhance the precision of BMI calculation.
 
 ## Note:
 This BMI calculator is intended for learning purposes only and should not be considered a substitute for professional medical advice. Always consult with a healthcare professional for accurate health assessments.
