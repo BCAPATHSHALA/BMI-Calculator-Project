@@ -14,11 +14,12 @@ This is a simple yet powerful **BMI (Body Mass Index)** calculator built using J
 - **Age Input:** Include your age to enhance the precision of BMI calculation.
 
 ## Note:
+
 This BMI calculator is intended for learning purposes only and should not be considered a substitute for professional medical advice. Always consult with a healthcare professional for accurate health assessments.
 
 ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/BCAPATHSHALA/Color-Schema-Switcher-Project/master/Random%20Color%20Switcher%20Project.png)
+![App Screenshot](https://raw.githubusercontent.com/BCAPATHSHALA/BMI-Calculator-Project/master/BMI%20CALCULATOR%20JAVASCRIPT.png)
 
 ## HTML Code
 
